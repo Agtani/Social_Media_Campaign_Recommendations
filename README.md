@@ -1,0 +1,1 @@
+Conducted a multi-channel online advertising campaign analysis using Excel and Alteryx, evaluating performance metrics across Google, Reddit, Facebook, and LinkedIn to strategize and recommend data-driven decisions for campaign optimization, continuation, or cessation.
